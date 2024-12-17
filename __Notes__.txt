@@ -1,0 +1,5 @@
+Persönlicher Hinweis zum Aufbau hier:
+
+intro-to-ml-tensorflow: der reine git-Clone von Udacity
+finding-donors: meine Lösung zu Projekt1
+Image_Classifier: meine Lösung zu Projekt2
